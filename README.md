@@ -1,4 +1,3 @@
-v align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001C,35:160B3A,70:24105C,100:00D9FF&height=230&section=header&text=Amirhossein%20Nazeri&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20Designer%20%7C%20Front-End%20Developer%20%7C%20WordPress%20Specialist&descAlignY=62&descSize=18" width="100%"/>
 
